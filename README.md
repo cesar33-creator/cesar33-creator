@@ -1,4 +1,5 @@
-## Hi 👋, I'm, Cesar Rais Akhtar
+<h1 align="center">Hi 👋, I'm Cesar Rais Akhtar</h1>
+<h3 align="center">Front End Developer from Indonesia</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development<br>👨‍💻 All of my projects are available at https://github.com/cesar33-creator<br>📫 How to reach me cesarrais33@gmail.com
