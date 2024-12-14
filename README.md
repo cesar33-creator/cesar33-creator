@@ -1,8 +1,5 @@
 ## Hi 👋, I'm, Cesar Rais Akhtar
 
-<!--
-**cesar33-creator/cesar33-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🌱 I’m currently learning Web Development<br>👨‍💻 All of my projects are available at https://github.com/cesar33-creator<br>📫 How to reach me cesarrais33@gmail.com
 
@@ -21,4 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=cesar33-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
